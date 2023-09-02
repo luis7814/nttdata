@@ -1,2 +1,2 @@
-# nttdata
-List customer
+# customer
+Customer information
